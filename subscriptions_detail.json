@@ -23,7 +23,8 @@
             "left": {
               "type": "image_texts_left_cell_view",
               "image": {
-                "url": "https://alisa-technology.com/wp-content/uploads/2024/03/yandeksplyus_multi_12_mesyacev-300x300.jpg",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KeanuReevesLakehouse.jpg/360px-KeanuReevesLakehouse.jpg",
+                "hash": "7041e5519186a69fb06d3b900267f984",
                 "height": {
                   "type": "fixed",
                   "value": 40
