@@ -8,6 +8,19 @@
         },
         "cells": [
           {
+            "type": "text_cell_view",
+            "content": {
+              "text": "Сейчас платите 798 ₽ в месяц",
+              "typeface": "title1",
+              "text_color": "default"
+            },
+            "paddings": {
+              "left": "8x",
+              "top": "6x",
+              "right": "8x"
+            }
+          },
+          {
             "type": "left_right_cell_view",
             "paddings": {
               "top": "4x",
@@ -20,10 +33,6 @@
                 "text": "Отменить подписку Яндекс Плюс"
               }
             ],
-            "divider": {
-              "size": "d5",
-              "style": "default"
-            },
             "left": {
               "type": "image_texts_left_cell_view",
               "image": {
@@ -49,12 +58,12 @@
                   "plasma_text_color": "textPrimary"
                 },
                 "subtitle": {
-                  "text": "СберКарта ** 1234",
+                  "text": "СберКарта ** 1234\nСберКарта ** 5678",
                   "plasma_typeface": "body4",
                   "plasma_text_color": "textSecondary"
                 },
                 "caption": {
-                  "text": "СберКарта ** 7777",
+                  "text": "СберКарта ** 7777\nСберКарта ** 1234",
                   "plasma_typeface": "body4",
                   "plasma_text_color": "textSecondary"
                 },
