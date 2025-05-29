@@ -49,12 +49,12 @@
                   "plasma_text_color": "textPrimary"
                 },
                 "subtitle": {
-                  "text": "СберКарта ** 1234\nСберКарта ** 5678",
+                  "text": "СберКарта ** 1234",
                   "plasma_typeface": "body4",
                   "plasma_text_color": "textSecondary"
                 },
                 "caption": {
-                  "text": "СберКарта ** 7777\nСберКарта ** 1234",
+                  "text": "СберКарта ** 7777",
                   "plasma_typeface": "body4",
                   "plasma_text_color": "textSecondary"
                 },
