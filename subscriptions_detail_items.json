@@ -1,0 +1,125 @@
+{
+  "items": [
+    {
+      "card":{
+      "type": "list_card",
+      "paddings": {
+          "bottom": "4x"
+     },
+    "cells": [
+        {
+            "type": "text_cell_view",
+            "content": {
+                "text": "Яндекс",
+                "typeface": "headline3",
+                "text_color": "default",
+                "max_lines": 0
+            },
+            "paddings": {
+                "left": "8x",
+                "top": "10x",
+                "right": "8x"
+            }
+        },
+        {
+            "type": "text_cell_view",
+            "content": {
+                "text": "399 ₽",
+                "typeface": "headline1",
+                "text_color": "default",
+                "max_lines": 0
+            },
+            "paddings": {
+                "left": "8x",
+                "top": "9x",
+                "right": "8x"
+            }
+        },
+        {
+            "type": "text_cell_view",
+            "content": {
+                "text": "Спишется через 3 дня",
+                "typeface": "footnote1",
+                "text_color": "secondary",
+                "max_lines": 0
+            },
+            "paddings": {
+                "left": "8x",
+                "top": "10x",
+                "right": "8x"
+            }
+        },
+        {
+            "type": "text_cell_view",
+            "content": {
+                "text": "СБП",
+                "typeface": "footnote1",
+                "text_color": "secondary",
+                "max_lines": 0
+            },
+            "paddings": {
+                "left": "8x",
+                "top": "4x",
+                "right": "8x"
+            }
+        },
+        {
+            "type": "text_cell_view",
+            "content": {
+                "text": "Sberpay",
+                "typeface": "footnote1",
+                "text_color": "secondary",
+                "max_lines": 0
+            },
+            "paddings": {
+                "left": "8x",
+                "top": "4x",
+                "right": "8x"
+            }
+        },
+        {
+            "type": "text_cell_view",
+            "content": {
+                "text": "Списание запрещены",
+                "typeface": "footnote1",
+                "text_color": "secondary",
+                "max_lines": 0
+            },
+            "paddings": {
+                "left": "8x",
+                "top": "4x",
+                "right": "8x"
+            }
+        },
+        {
+            "type": "button_cell_view",
+            "content": {
+                "text": "Блокировать подписку",
+                "typeface": "button1",
+                "style": "default",
+                "type": "accept",
+                "actions": [
+                    {
+                        "type": "text",
+                        "text": "Блокировать подписку"
+                    }
+                ],
+                "margins": {
+                    "left": "10x",
+                    "top": "5x",
+                    "right": "10x",
+                    "bottom": "5x"
+                }
+            },
+            "paddings": {
+                "left": "6x",
+                "top": "12x",
+                "right": "6x",
+                "bottom": "8x"
+            }
+        }
+    ]
+}
+}
+]
+}
