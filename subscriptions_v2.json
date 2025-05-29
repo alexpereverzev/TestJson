@@ -40,19 +40,19 @@
               "texts": {
                 "title": {
                   "text": "Яндекс Плюс >",
-                  "plasma_typeface": "body2",
-                  "plasma_text_color": "textPrimary"
+                  "typeface": "body2",
+                  "text_color": "textPrimary"
                 },
                 "subtitle": {
                   "text": "СберКарта ** 1234\nСберКарта ** 5678",
-                  "plasma_typeface": "body4",
-                  "plasma_text_color": "textSecondary",
+                  "typeface": "body4",
+                  "text_color": "textSecondary",
                   "max_lines": 2
                 },
                 "caption": {
                   "text": "СберКарта ** 7777\nСберКарта ** 1234",
-                  "plasma_typeface": "body4",
-                  "plasma_text_color": "textSecondary",
+                  "typeface": "body4",
+                  "text_color": "textSecondary",
                   "max_lines": 2
                 },
                 "margins": {
