@@ -82,7 +82,7 @@
             "content": {
                 "text": "Списание запрещены",
                 "typeface": "footnote1",
-                "text_color": "secondary",
+                "text_color": "warning",
                 "max_lines": 0
             },
             "paddings": {
