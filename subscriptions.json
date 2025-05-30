@@ -142,6 +142,10 @@
                 "size": {
                   "width": "medium",
                   "height": "medium"
+                },
+                "margins": {
+                  "top": "2x",
+                  "right": "6x"
                 }
               },
               "texts": {
