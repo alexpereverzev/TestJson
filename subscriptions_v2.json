@@ -21,46 +21,6 @@
               }
             ],
             "left": {
-              "type": "simple_left_view",
-              "icon": {
-                "address": {
-                  "type": "local",
-                  "identificator": "card"
-                },
-                "tint_color": "solid_brand",
-                "size": {
-                  "width": "medium",
-                  "height": "medium"
-                },
-                "margins": {
-                  "right": "6x"
-                }
-              },
-              "icon_vertical_gravity": "center",
-              "texts": {
-                "title": {{
-  "items": [
-    {
-      "card": {
-        "type": "list_card",
-        "paddings": {
-          "bottom": "2x"
-        },
-        "cells": [
-          {
-            "type": "left_right_cell_view",
-            "paddings": {
-              "top": "8x",
-              "left": "8x",
-              "bottom": "4x"
-            },
-            "actions": [
-              {
-                "type": "text",
-                "text": "Отменить подписку Яндекс Плюс"
-              }
-            ],
-            "left": {
               "type": "image_texts_left_cell_view",
               "image": {
                 "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KeanuReevesLakehouse.jpg/360px-KeanuReevesLakehouse.jpg",
@@ -83,24 +43,22 @@
                 "title": {
                   "text": "Яндекс Плюс >",
                   "typeface": "body2",
-                  "text_color": "default"
+                  "text_color": "default",
                   "plasma_typeface": "body2",
                   "plasma_text_color": "textPrimary"
                 },
                 "subtitle": {
                   "text": "СберКарта ** 1234\nСберКарта ** 5678",
-                  "typeface": "body4",
-                  "text_color": "textSecondary",
                   "plasma_typeface": "body4",
                   "plasma_text_color": "textSecondary",
                   "max_lines": 2
                 },
                 "caption": {
                   "text": "СберКарта ** 7777\nСберКарта ** 1234",
-                  "typeface": "body4",
-                  "text_color": "textSecondary",
                   "plasma_typeface": "body4",
                   "plasma_text_color": "textSecondary",
+                  "typeface": "body4",
+                  "text_color": "textSecondary",
                   "max_lines": 2
                 },
                 "margins": {
@@ -123,87 +81,9 @@
                   "text_color": "default"
                 }
               }
-            }
-          },
-           {
-            "type": "text_cell_view",
-            "content": {
-              "text": "Спишется 20 марта",
-              "typeface": "body1",
-              "text_color": "default",
-              "max_lines": 0
-            },
-            "paddings": {
-              "left": "8x",
-              "top": "2x",
-              "right": "8x"
             }
           },
           {
-            "type": "button_cell_view",
-            "content": {
-              "plasma_button": {
-                "text": "Запретить списания",
-                "actions": [
-                  {
-                    "type": "text",
-                    "text": "Запретить списания"
-                  }
-                ],
-                "style": "secondary"
-              }
-            },
-            "paddings": {
-              "left": "4x",
-              "right": "4x",
-              "top": "8x",
-              "bottom": "4x"
-            }
-          }
-        ]
-      }
-    }
-  ]
-}
-                  "text": "Яндекс Плюс >",
-                  "typeface": "body2",
-                  "text_color": "textPrimary"
-                },
-                "subtitle": {
-                  "text": "СберКарта ** 1234\nСберКарта ** 5678",
-                  "typeface": "body4",
-                  "text_color": "textSecondary",
-                  "max_lines": 2
-                },
-                "caption": {
-                  "text": "СберКарта ** 7777\nСберКарта ** 1234",
-                  "typeface": "body4",
-                  "text_color": "textSecondary",
-                  "max_lines": 2
-                },
-                "margins": {
-                  "left": "6x",
-                  "right": "6x"
-                }
-              },
-              "image_vertical_gravity": "top"
-            },
-            "right": {
-              "type": "detail_right_view",
-              "margins": {
-                "right": "6x"
-              },
-              "vertical_gravity": "top",
-              "info_and_icon": {
-                "info": {
-                  "text": "399 ₽",
-                  "typeface": "body2",
-                  "text_color": "default"
-                }
-              }
-            }
-          },
-           {
             "type": "text_cell_view",
             "content": {
               "text": "Спишется 20 марта",
