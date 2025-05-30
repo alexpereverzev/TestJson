@@ -72,16 +72,22 @@
               "texts": {
                 "title": {
                   "text": "ИВИ >",
+                  "typeface": "body2",
+                  "text_color": "textPrimary",
                   "plasma_typeface": "body2",
                   "plasma_text_color": "textPrimary"
                 },
                 "subtitle": {
                   "text": "СберКарта ** 9112 и еще 2",
+                  "typeface": "body4",
+                  "text_color": "textSecondary",
                   "plasma_typeface": "body4",
                   "plasma_text_color": "textSecondary"
                 },
                 "caption": {
                   "text": "Спишется через 3 дня",
+                  "typeface": "body4",
+                  "text_color": "textSecondary",
                   "plasma_typeface": "body4",
                   "plasma_text_color": "textSecondary"
                 },
@@ -145,16 +151,22 @@
               "texts": {
                 "title": {
                   "text": "Яндекс Плюс >",
+                  "typeface": "body2",
+                  "text_color": "textPrimary",
                   "plasma_typeface": "body2",
                   "plasma_text_color": "textPrimary"
                 },
                 "subtitle": {
                   "text": "СберКарта ** 4721",
+                  "typeface": "body4",
+                  "text_color": "textSecondary",
                   "plasma_typeface": "body4",
                   "plasma_text_color": "textSecondary"
                 },
                 "caption": {
                   "text": "Спишется 20 марта",
+                  "typeface": "body4",
+                  "text_color": "textSecondary",
                   "plasma_typeface": "body4",
                   "plasma_text_color": "textSecondary"
                 },
@@ -214,16 +226,22 @@
               "texts": {
                 "title": {
                   "text": "Озон Премиум >",
+                  "typeface": "body2",
+                  "text_color": "textPrimary",
                   "plasma_typeface": "body2",
                   "plasma_text_color": "textPrimary"
                 },
                 "subtitle": {
                   "text": "СберКарта ** 9112",
+                  "typeface": "body4",
+                  "text_color": "textSecondary",
                   "plasma_typeface": "body4",
                   "plasma_text_color": "textSecondary"
                 },
                 "caption": {
                   "text": "Списания запрещены",
+                  "typeface": "body4",
+                  "text_color": "textWarning",
                   "plasma_typeface": "body4",
                   "plasma_text_color": "textWarning"
                 },
