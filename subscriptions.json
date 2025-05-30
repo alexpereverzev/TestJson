@@ -139,13 +139,14 @@
                   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KeanuReevesLakehouse.jpg/360px-KeanuReevesLakehouse.jpg",
                   "hash": "7041e5519186a69fb06d3b900267f984"
                 },
-                "size": {
-                  "width": "medium",
-                  "height": "medium"
+                "height": {
+                  "type": "fixed",
+                  "value": 64
                 },
-                "margins": {
-                  "top": "2x",
-                  "right": "6x"
+                "scale_mode": "scale_aspect_fit",
+                "width": {
+                  "type": "fixed",
+                  "value": 64
                 }
               },
               "texts": {
