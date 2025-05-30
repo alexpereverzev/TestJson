@@ -23,7 +23,9 @@
             "left": {
               "type": "image_texts_left_cell_view",
               "image": {
-                "url": "https://avatars.mds.yandex.net/get-marketcms/475644/img-0ec60a9f-2803-4ab0-8408-ed0dd2cbec79.png/optimize",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KeanuReevesLakehouse.jpg/360px-KeanuReevesLakehouse.jpg",
+                "hash": "7041e5519186a69fb06d3b900267f984",
+                "placeholder": "placeholder",
                 "height": {
                   "type": "fixed",
                   "value": 40
