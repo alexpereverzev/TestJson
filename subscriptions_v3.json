@@ -52,22 +52,18 @@
               "style": "default"
             },
             "left": {
-              "type": "image_texts_left_cell_view",
-              "image": {
-                "url": "https://va-res.online.sberbank.ru/VA/icons/sao_skills/ds_mc_36_telegram3x.png",
-                "placeholder": "placeholder",
-                "height": {
-                  "type": "fixed",
-                  "value": 40
+              "type": "simple_left_view",
+              "icon": {
+                "address": {
+                  "type": "url",
+                  "url": "https://va-res.online.sberbank.ru/VA/icons/sao_skills/ds_mc_36_telegram3x.png"
                 },
-                "scale_mode": "scale_aspect_fit",
-                "width": {
-                  "type": "fixed",
-                  "value": 40
+                "size": {
+                  "width": "medium",
+                  "height": "medium"
                 },
                 "margins": {
-                  "top": "2x",
-                  "right": "6x"
+                  "right": "4x"
                 }
               },
               "texts": {
@@ -143,7 +139,6 @@
                   "height": "medium"
                 },
                 "margins": {
-                  "top": "2x",
                   "right": "4x"
                 }
               },
@@ -205,21 +200,18 @@
               }
             ],
             "left": {
-              "type": "image_texts_left_cell_view",
-              "image": {
-                "url": "https://rskrf.ru/upload/iblock/2a3/5utlf0qui8et0bfvtc8bjuz50zsxu5ho.png",
-                "height": {
-                  "type": "fixed",
-                  "value": 40
+              "type": "simple_left_view",
+              "icon": {
+                "address": {
+                  "type": "url",
+                  "url": "https://va-res.online.sberbank.ru/VA/icons/sao_skills/ds_mc_36_telegram3x.png"
                 },
-                "scale_mode": "scale_aspect_fit",
-                "width": {
-                  "type": "fixed",
-                  "value": 40
+                "size": {
+                  "width": "medium",
+                  "height": "medium"
                 },
                 "margins": {
-                  "top": "2x",
-                  "right": "6x"
+                  "right": "4x"
                 }
               },
               "texts": {
