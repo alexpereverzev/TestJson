@@ -21,23 +21,18 @@
               }
             ],
             "left": {
-              "type": "image_texts_left_cell_view",
-              "image": {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KeanuReevesLakehouse.jpg/360px-KeanuReevesLakehouse.jpg",
-                "hash": "7041e5519186a69fb06d3b900267f984",
-                "placeholder": "https://va-res.online.sberbank.ru/VA/icons/sao_skills/ds_mc_36_telegram3x.png",
-                "height": {
-                  "type": "fixed",
-                  "value": 40
+              "type": "simple_left_view",
+              "icon": {
+                "address": {
+                  "type": "url",
+                  "url": "https://va-res.online.sberbank.ru/VA/icons/sao_skills/ds_mc_36_telegram3x.png"
                 },
-                "scale_mode": "scale_aspect_fit",
-                "width": {
-                  "type": "fixed",
-                  "value": 40
+                "size": {
+                  "width": "medium",
+                  "height": "medium"
                 },
                 "margins": {
-                  "top": "2x",
-                  "right": "6x"
+                  "right": "4x"
                 }
               },
               "texts": {
